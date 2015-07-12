@@ -10,7 +10,7 @@ namespace VB.Portfolio.Web.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to Vishali Bojja Profile. If you are here, its the biggest mistake you ever did.";
+            ViewBag.Message = "Welcome to Vishali Bojja Profile.";
 
             return View();
         }
